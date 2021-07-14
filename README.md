@@ -10,8 +10,9 @@ Source:  https://www.kaggle.com/samdeeplearning/deepnlp
 The Naive Bayes Classifer model score a weighted average 
 ![Confusion Matrix](https://miro.medium.com/max/1200/0*-oGC3SE8sPCPdmxs.jpg)
 
-|---|---|---|
+
 | |Metrics| Score|
+|---|---|---|
 |1. |**Precision** |  76% | 
 |2. |**Recall** | 76% |
 |3. |**F1-Score** | 74% | 
